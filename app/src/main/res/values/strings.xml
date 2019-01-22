@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="get_info">Get info</string>
+    <string name="choice_at_least">Choice at least one currency</string>
+    <string name="loading">Loading…</string>
+    <string name="rate_decimal">%.2f</string>
+</resources>
